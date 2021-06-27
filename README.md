@@ -4,3 +4,6 @@ have HWID and Backdoor
 
 
 Not cracked yet
+
+
+Note when using
